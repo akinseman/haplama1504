@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\hesplama\hesplama\bin\Debug\hesplama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\hesplama\hesplama\bin\Debug\hesplama.exe
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\hesplama\hesplama\bin\Debug\hesplama.pdb
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\hesplama\hesplama\obj\Debug\hesplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\hesplama\hesplama\obj\Debug\hesplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\hesplama\hesplama\obj\Debug\hesplama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\hesplama\hesplama\obj\Debug\hesplama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\hesplama\hesplama\obj\Debug\hesplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\hesplama\hesplama\obj\Debug\hesplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\hesplama\hesplama\obj\Debug\hesplama.exe
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\hesplama\hesplama\obj\Debug\hesplama.pdb
